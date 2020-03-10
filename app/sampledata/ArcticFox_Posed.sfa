@@ -37,7 +37,7 @@
     file: 'sampledata/ArcticFox_Posed.obj',
     name: 'ArcticFox_Posed',
     recenter: 'root',
-    scale: 0.150000000000,
+    scale: 0.080000000000,
   },
   version: '0.54:2',
 }
